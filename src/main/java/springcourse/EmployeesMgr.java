@@ -2,9 +2,8 @@ package springcourse;
 
 public class EmployeesMgr {
 
-    private void getId() {
-
+    public void addEmployee() {
+        Employee employee = new Employee();
+        employee.add();
     }
-
-
 }
